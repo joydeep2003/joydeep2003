@@ -1,4 +1,4 @@
-## Hi there , As my company's repo is private , so commits wont show in my accout directly . Below I have attached a ss of my commits in last 1 year👋
+## Hi there , As my company's repo is private , so commits won't display in my account directly . Below I have attached a ss of my commits in last 1 year👋
 <img width="958" height="259" alt="Image" src="https://github.com/user-attachments/assets/7f6e3b3f-3ddb-431d-9820-da8ea7f4b665" />
 <!--
 **joydeep2003/joydeep2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
